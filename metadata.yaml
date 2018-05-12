@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31903'
     url: http://www.gutenberg.org/2009/agents/31903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31687#Stories-of-the-Foot-hills
 gutenberg_issued: '2010-03-18'
 gutenberg_type: Text
 identifiers:
